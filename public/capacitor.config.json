@@ -1,0 +1,9 @@
+{
+    "appId": "io.ionic.quicknews",
+    "appName": "quicknews",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
+  

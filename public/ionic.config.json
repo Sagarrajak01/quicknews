@@ -1,0 +1,7 @@
+{
+    "name": "quicknews",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
